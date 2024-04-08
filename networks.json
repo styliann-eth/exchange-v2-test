@@ -1,0 +1,8 @@
+{
+  "etherlink-testnet": {
+    "PancakeFactory": {
+      "address": "0x6981ad2272010a6EF341497D6c3d109F6B87f3D9",
+      "startBlock": 1786709
+    }
+  }
+}
